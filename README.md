@@ -5,3 +5,7 @@
 
 ### Running GitHub Actions work in parallel with Jobs
 - [Running GitHub Actions work in parallel with Jobs](https://lannonbr.com/blog/github-actions-jobs/)
+
+### Ideal CI/CD Pipeline
+- [The IDEAL & Practical CI / CD Pipeline - Concepts Overview](https://www.youtube.com/watch?v=OPwU3UWCxhw)
+- [The REVISED CI / CD Pipeline - Making Improvements](https://www.youtube.com/watch?v=OcaUQrRo7-Q)
