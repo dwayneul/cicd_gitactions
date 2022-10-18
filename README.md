@@ -12,3 +12,8 @@
 ## Ideal CI/CD Pipeline
 - [The IDEAL & Practical CI / CD Pipeline - Concepts Overview](https://www.youtube.com/watch?v=OPwU3UWCxhw)
 - [The REVISED CI / CD Pipeline - Making Improvements](https://www.youtube.com/watch?v=OcaUQrRo7-Q)
+
+## PyInstaller
+
+- [PyInstaller on GitHub MarketPlace](https://github.com/marketplace?type=actions&query=pyinstaller+)
+- [PyInstaller-Action-Windows](https://github.com/marketplace/actions/pyinstaller-windows)
